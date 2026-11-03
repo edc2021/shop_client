@@ -1,0 +1,217 @@
+
+> www-pro@0.1.0 build
+> vue-cli-service build
+
+
+-  Building for production...
+ WARNING  Compiled with 2 warnings17:38:29
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  img/loginbg1.af064d0d.png (284 KiB)
+  img/logo.dfd8cbcc.png (621 KiB)
+  img/Lazlogo.dfd8cbcc.png (621 KiB)
+  img/store_bg.2af4e54e.png (586 KiB)
+  img/credit-bg1.2040cb41.png (281 KiB)
+  img/image.ee6f87ba.svg (1.77 MiB)
+  js/app.2da077e0.js (1.35 MiB)
+  js/vendors~app.a7d25e4d.js (3.31 MiB)
+  js/app.2da077e0.js.gz (416 KiB)
+  js/vendors~app.a7d25e4d.js.gz (902 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (5.11 MiB)
+      css/vendors~app.3bbfd8c1.css
+      js/vendors~app.a7d25e4d.js
+      css/app.b1b2cca8.css
+      js/app.2da077e0.js
+
+
+  File                                      Size             Gzipped
+
+  JNMIA -                                   3385.40 KiB      906.61 KiB
+  用户商城PC\js\vendors~app.a7d25e4d.js
+  JNMIA - 用户商城PC\js\app.2da077e0.js     1378.05 KiB      416.83 KiB
+  JNMIA - 用户商城PC\js\chunk-74926972.1    86.81 KiB        29.46 KiB
+  2234da0.js
+  JNMIA - 用户商城PC\js\chunk-3552b704.d    49.70 KiB        15.91 KiB
+  a9325b5.js
+  JNMIA - 用户商城PC\js\chunk-6b231033.c    38.30 KiB        16.25 KiB
+  86855d0.js
+  JNMIA - 用户商城PC\js\chunk-2e9b19e4.2    31.36 KiB        15.03 KiB
+  e9132fc.js
+  JNMIA - 用户商城PC\js\chunk-80157e3c.8    29.60 KiB        11.30 KiB
+  75e2a96.js
+  JNMIA - 用户商城PC\js\chunk-49c56709.7    27.90 KiB        8.23 KiB
+  984ce77.js
+  JNMIA - 用户商城PC\js\chunk-21ac68de.5    26.71 KiB        8.60 KiB
+  1af44be.js
+  JNMIA - 用户商城PC\js\chunk-382f6d67.f    26.01 KiB        11.03 KiB
+  1010f36.js
+  JNMIA - 用户商城PC\js\chunk-74446b9c.6    23.70 KiB        7.44 KiB
+  a30a656.js
+  JNMIA - 用户商城PC\js\chunk-4711ae81.f    23.63 KiB        7.84 KiB
+  7dd10e0.js
+  JNMIA - 用户商城PC\brand-name.js          21.54 KiB        6.14 KiB
+  JNMIA - 用户商城PC\js\chunk-6aa77e4b.0    19.66 KiB        11.50 KiB
+  8a68e85.js
+  JNMIA - 用户商城PC\js\chunk-080bb2e0.7    19.48 KiB        9.45 KiB
+  b715d08.js
+  JNMIA - 用户商城PC\js\chunk-4c07d914.8    18.42 KiB        8.06 KiB
+  67f7a89.js
+  JNMIA - 用户商城PC\js\chunk-9d0e3956.e    17.74 KiB        5.94 KiB
+  0e96822.js
+  JNMIA - 用户商城PC\js\chunk-13770fec.8    16.00 KiB        6.04 KiB
+  f35c5c0.js
+  JNMIA - 用户商城PC\js\chunk-2d3b15cc.f    15.13 KiB        5.94 KiB
+  1a3934e.js
+  JNMIA - 用户商城PC\js\chunk-559d0144.9    15.05 KiB        5.07 KiB
+  35fca8f.js
+  JNMIA - 用户商城PC\js\chunk-2343ec85.7    14.32 KiB        4.00 KiB
+  549012b.js
+  JNMIA - 用户商城PC\js\chunk-35b7f158.d    13.48 KiB        4.18 KiB
+  e254878.js
+  JNMIA - 用户商城PC\js\chunk-39fb98b5.1    12.75 KiB        5.36 KiB
+  a665d53.js
+  JNMIA - 用户商城PC\js\chunk-0f135973.3    12.29 KiB        5.52 KiB
+  c66c89b.js
+  JNMIA - 用户商城PC\js\chunk-91f4e7e8.a    12.26 KiB        4.00 KiB
+  8cc6b36.js
+  JNMIA - 用户商城PC\js\chunk-a9f88638.8    11.88 KiB        5.20 KiB
+  79bb471.js
+  JNMIA - 用户商城PC\js\chunk-fc9179d2.b    11.84 KiB        5.38 KiB
+  b9f6753.js
+  JNMIA - 用户商城PC\js\chunk-66a957e8.8    11.07 KiB        3.92 KiB
+  32acc16.js
+  JNMIA - 用户商城PC\js\chunk-96625288.6    9.93 KiB         3.40 KiB
+  5dbcfd9.js
+  JNMIA - 用户商城PC\js\chunk-428b830a.b    9.17 KiB         3.74 KiB
+  3890e24.js
+  JNMIA - 用户商城PC\js\chunk-7c52e852.4    9.16 KiB         3.50 KiB
+  203d40f.js
+  JNMIA - 用户商城PC\js\chunk-3581ccc6.f    7.93 KiB         2.37 KiB
+  15bd6b7.js
+  JNMIA - 用户商城PC\js\chunk-356c00b0.8    7.49 KiB         4.00 KiB
+  921f8e5.js
+  JNMIA - 用户商城PC\js\chunk-55a26a12.2    7.13 KiB         3.59 KiB
+  45f5f70.js
+  JNMIA - 用户商城PC\js\chunk-ba299518.c    7.08 KiB         2.54 KiB
+  6a8464d.js
+  JNMIA - 用户商城PC\js\chunk-574f8736.9    6.48 KiB         2.37 KiB
+  f6b5401.js
+  JNMIA - 用户商城PC\js\chunk-ec5b203e.c    5.15 KiB         1.75 KiB
+  7b6895c.js
+  JNMIA - 用户商城PC\js\chunk-2a6ac637.2    4.36 KiB         2.71 KiB
+  b76782b.js
+  JNMIA - 用户商城PC\js\chunk-0492056c.d    3.80 KiB         1.58 KiB
+  2b414d0.js
+  JNMIA - 用户商城PC\js\chunk-6699a1ea.9    3.57 KiB         1.24 KiB
+  2403292.js
+  JNMIA - 用户商城PC\js\chunk-687a95f8.a    3.28 KiB         1.27 KiB
+  b955904.js
+  JNMIA - 用户商城PC\js\chunk-50d79b30.d    2.91 KiB         1.23 KiB
+  f831363.js
+  JNMIA - 用户商城PC\js\chunk-3fd6aeb4.0    1.90 KiB         0.89 KiB
+  1918c37.js
+  JNMIA - 用户商城PC\js\chunk-2849664a.d    1.11 KiB         0.50 KiB
+  b571956.js
+  JNMIA - 用户商城PC\js\chunk-24e95abb.8    0.75 KiB         0.39 KiB
+  e0c8038.js
+  JNMIA - 用户商城PC\js\chunk-2d216070.1    0.35 KiB         0.27 KiB
+  d73e528.js
+  JNMIA - 用户商城PC\js\chunk-2d216994.5    0.24 KiB         0.20 KiB
+  7a9df50.js
+  JNMIA - 用户商城PC\css\vendors~app.3bb    242.73 KiB       40.99 KiB
+  fd8c1.css
+  JNMIA -                                   227.27 KiB       37.87 KiB
+  用户商城PC\css\app.b1b2cca8.css
+  JNMIA - 用户商城PC\css\chunk-3552b704.    18.03 KiB        6.96 KiB
+  c2539ac0.css
+  JNMIA - 用户商城PC\css\chunk-4711ae81.    18.03 KiB        5.94 KiB
+  9e033a52.css
+  JNMIA - 用户商城PC\css\chunk-6b231033.    16.01 KiB        6.63 KiB
+  b5b2ac11.css
+  JNMIA - 用户商城PC\css\chunk-2e9b19e4.    12.81 KiB        6.17 KiB
+  6ee6cff9.css
+  JNMIA - 用户商城PC\css\chunk-2d3b15cc.    9.13 KiB         5.32 KiB
+  b9de75c3.css
+  JNMIA - 用户商城PC\css\chunk-a9f88638.    8.05 KiB         5.09 KiB
+  adbd2a35.css
+  JNMIA - 用户商城PC\css\chunk-39fb98b5.    8.02 KiB         5.09 KiB
+  bf4d2812.css
+  JNMIA - 用户商城PC\css\chunk-0492056c.    7.08 KiB         4.58 KiB
+  8eca5a8d.css
+  JNMIA - 用户商城PC\css\chunk-6aa77e4b.    6.92 KiB         2.55 KiB
+  076f8cdb.css
+  JNMIA - 用户商城PC\css\chunk-356c00b0.    6.69 KiB         4.73 KiB
+  7da32439.css
+  JNMIA - 用户商城PC\css\chunk-35b7f158.    6.67 KiB         1.68 KiB
+  c3acef98.css
+  JNMIA - 用户商城PC\css\chunk-80157e3c.    6.26 KiB         1.52 KiB
+  badabe5f.css
+  JNMIA - 用户商城PC\css\chunk-ec5b203e.    4.65 KiB         1.08 KiB
+  45f75ffc.css
+  JNMIA - 用户商城PC\css\chunk-4c07d914.    4.58 KiB         0.98 KiB
+  5c3b585c.css
+  JNMIA - 用户商城PC\css\chunk-91f4e7e8.    4.08 KiB         1.05 KiB
+  054674a3.css
+  JNMIA - 用户商城PC\css\chunk-74446b9c.    3.72 KiB         0.90 KiB
+  5390cb9a.css
+  JNMIA - 用户商城PC\css\chunk-3581ccc6.    3.54 KiB         0.85 KiB
+  f09689d1.css
+  JNMIA - 用户商城PC\css\chunk-559d0144.    3.26 KiB         0.98 KiB
+  3ecf88fe.css
+  JNMIA - 用户商城PC\css\chunk-9d0e3956.    3.21 KiB         0.88 KiB
+  c782d047.css
+  JNMIA - 用户商城PC\css\chunk-13770fec.    2.87 KiB         0.86 KiB
+  e35687e5.css
+  JNMIA - 用户商城PC\css\chunk-ba299518.    2.84 KiB         0.89 KiB
+  0e701f5c.css
+  JNMIA - 用户商城PC\css\chunk-50d79b30.    2.43 KiB         0.63 KiB
+  0f594967.css
+  JNMIA - 用户商城PC\css\chunk-687a95f8.    2.21 KiB         0.77 KiB
+  bbf1f88d.css
+  JNMIA - 用户商城PC\css\chunk-080bb2e0.    1.56 KiB         0.56 KiB
+  615f6bf6.css
+  JNMIA - 用户商城PC\css\chunk-55a26a12.    1.36 KiB         0.39 KiB
+  7840c12a.css
+  JNMIA - 用户商城PC\css\chunk-49c56709.    1.34 KiB         0.51 KiB
+  46af3d44.css
+  JNMIA - 用户商城PC\css\chunk-6699a1ea.    1.22 KiB         0.48 KiB
+  cd704402.css
+  JNMIA - 用户商城PC\css\chunk-2343ec85.    1.20 KiB         0.45 KiB
+  03c5e968.css
+  JNMIA - 用户商城PC\css\chunk-66a957e8.    1.09 KiB         0.48 KiB
+  8fe95911.css
+  JNMIA - 用户商城PC\css\chunk-574f8736.    0.95 KiB         0.46 KiB
+  7da50378.css
+  JNMIA - 用户商城PC\css\chunk-3fd6aeb4.    0.90 KiB         0.38 KiB
+  ba19ca45.css
+  JNMIA - 用户商城PC\css\chunk-2a6ac637.    0.71 KiB         0.33 KiB
+  f2bd8913.css
+  JNMIA - 用户商城PC\css\chunk-96625288.    0.44 KiB         0.21 KiB
+  b488a9b3.css
+  JNMIA - 用户商城PC\css\chunk-24e95abb.    0.44 KiB         0.23 KiB
+  b2e5197a.css
+  JNMIA - 用户商城PC\css\chunk-0f135973.    0.42 KiB         0.21 KiB
+  1a94a034.css
+  JNMIA - 用户商城PC\css\chunk-fc9179d2.    0.40 KiB         0.21 KiB
+  85ee17e2.css
+  JNMIA - 用户商城PC\css\chunk-2849664a.    0.33 KiB         0.23 KiB
+  b30d78dd.css
+  JNMIA - 用户商城PC\css\chunk-428b830a.    0.24 KiB         0.17 KiB
+  c6474aa1.css
+  JNMIA - 用户商城PC\css\chunk-7c52e852.    0.11 KiB         0.10 KiB
+  c70dd4a7.css
+
+  Images and other types of assets omitted.
+
+ DONE  Build complete. The JNMIA - 用户商城PC directory is ready to be deployed.
+ INFO  Check out deployment instructions at https://cli.vuejs.org/guide/deployment.html
+      

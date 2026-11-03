@@ -1,0 +1,5 @@
+All browser targets in the browserslist configuration have supported ES module.
+Therefore we don't build two separate bundles for differential loading.
+
+
+-  Building for production...

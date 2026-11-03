@@ -1,0 +1,68 @@
+.DS_Store
+node_modules
+/dist
+/EShop - 用户商城H5
+/Argos - 用户商城H5
+/Mbuy - 用户商城H5
+/Inchoi - 用户商城H5
+/MetaShop - 用户商城H5
+/Tongda - 用户商城H5
+/Hive - 用户商城H5
+/FamilyMart - 用户商城H5
+/FamilyShop - 用户商城H5
+/JNMIA - 用户商城H5
+/Shop2u - 用户商城H5
+/GreenMall - 用户商城H5
+/SM-wholesaleShop - 用户商城H5
+/ArgosShop - 用户商城H5
+/Laz - 用户商城H5
+/Iceland - 用户商城H5
+/INTOverstock - 用户商城H5
+/INT Overstock - 用户商城H5
+/TikTok-Wholesale - 用户商城H5
+/AntMall - 用户商城H5
+/SIMON - 用户商城H5
+/TEXM - 用户商城H5
+/Alibaba-wholesales - 用户商城H5
+.env.Argos
+.env.Mbuy
+.env.Inchoi
+.env.MetaShop
+.env.Tongda
+.env.Hive
+.env.FamilyMart
+.env.FamilyShop
+.env.Shop2u
+.env.JNMIA
+.env.GreenMall
+.env.SM-wholesaleShop
+.env.ArgosShop
+.env.Laz
+.env.Iceland
+.env.INT Overstock
+.env.INTOverstock
+.env.TikTok-Wholesale
+.env.AntMall
+.env.SIMON
+.env.TEXM
+.env.Alibaba-wholesales
+# local env files
+.env.local
+.env.*.local
+.history
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.zip
+

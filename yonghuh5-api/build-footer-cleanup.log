@@ -1,0 +1,579 @@
+All browser targets in the browserslist configuration have supported ES module.
+Therefore we don't build two separate bundles for differential loading.
+
+
+-  Building for production...
+ WARNING  Compiled with 99 warnings08:28:21
+
+ warning  in ./node_modules/vue-esign/src/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=a1968bcc&prod&scoped=true&lang=css' (module has no exports)
+
+ warning  in ./src/App.vue
+
+export 'default' (imported as 'style0') was not found in './App.vue?vue&type=style&index=0&id=2dfb8567&prod&lang=scss' (module has no exports)
+
+ warning  in ./src/App.vue
+
+export 'default' (imported as 'style1') was not found in './App.vue?vue&type=style&index=1&id=2dfb8567&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/App.vue
+
+export 'default' (imported as 'style2') was not found in './App.vue?vue&type=style&index=2&id=2dfb8567&prod&lang=css' (module has no exports)
+
+ warning  in ./src/components/BottomNavigation/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=74effa00&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/EnterPassword/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=a81fefcc&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/FloatingVideo/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=64ac7c19&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/Footer/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=7c22b818&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/GoodsContentOne/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=3fa26706&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/GoodsItemOne/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=f53beed4&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/GoodsItemTwo/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=aa46d000&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/Loading/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=5b98f5ac&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/NationalityList/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=2514933c&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/ShopContentTwo/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=921447b6&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/ShopItemOne/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=2304925e&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/components/ShopItemTwo/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=6f645db7&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/AddressDetails/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=85389358&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/AddressList/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=46dbc36f&prod&lang=scss' (module has no exports)
+
+ warning  in ./src/page/AddressList/index.vue
+
+export 'default' (imported as 'style1') was not found in './index.vue?vue&type=style&index=1&id=46dbc36f&prod&lang=css' (module has no exports)
+
+ warning  in ./src/page/AddressList/index.vue
+
+export 'default' (imported as 'style2') was not found in './index.vue?vue&type=style&index=2&id=46dbc36f&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/AllReviews/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=7360f967&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/BindEmail/Bound/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=003fba59&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/BindEmail/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=35163b9e&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/BindPhone/Bound/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=ddf324fe&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/BindPhone/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=3e770af5&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Classification/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=0ee845c9&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/CollectGoods/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=07aae3bd&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/CollectShop/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=aa51aef4&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/CommodityDetails/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=0cd88acb&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/EvaluationSheet/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=e0e7029e&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/FundPasswordReset/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=56ffdbed&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/FundPasswordSettings/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=5fb73955&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Information/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=0f49c9d9&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/LoginPasswordReset/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=2090120b&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Merchant/components/mer-chant-header.vue
+
+export 'default' (imported as 'style0') was not found in './mer-chant-header.vue?vue&type=style&index=0&id=57da128b&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Merchant/components/submit-success.vue
+
+export 'default' (imported as 'style0') was not found in './submit-success.vue?vue&type=style&index=0&id=2fffea1b&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Merchant/merchantDown.vue
+
+export 'default' (imported as 'style0') was not found in './merchantDown.vue?vue&type=style&index=0&id=2e04c86a&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Merchant/merchantSettled.vue
+
+export 'default' (imported as 'style0') was not found in './merchantSettled.vue?vue&type=style&index=0&id=039ea7e7&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Order/Details/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=e957a374&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Order/Evaluate/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=b97da806&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Order/Logistics/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=308eb263&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Order/Refund/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=58a204de&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Order/components/CancelDialog.vue
+
+export 'default' (imported as 'style0') was not found in './CancelDialog.vue?vue&type=style&index=0&id=4a94cfae&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Order/components/RemindsDialog.vue
+
+export 'default' (imported as 'style0') was not found in './RemindsDialog.vue?vue&type=style&index=0&id=6ca3719c&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Order/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=344cbe48&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/PendingPayment/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=783fab16&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Search/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=5b8803e7&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/Setting/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=7912e802&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/SubmitCompleted/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=035f541a&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/SuccessfulOperation/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=549b79cc&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/accountCancellation/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=e8925214&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/accountCancellation/index.vue
+
+export 'default' (imported as 'style1') was not found in './index.vue?vue&type=style&index=1&id=e8925214&prod&lang=scss' (module has no exports)
+
+ warning  in ./src/page/avatarSelection/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=565ff83f&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/cart/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=144cf545&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/commodity/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=32be4ddb&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/complaint/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=474f312a&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/complaint/index.vue
+
+export 'default' (imported as 'style1') was not found in './index.vue?vue&type=style&index=1&id=474f312a&prod&lang=scss' (module has no exports)
+
+ warning  in ./src/page/home.vue
+
+export 'default' (imported as 'style0') was not found in './home.vue?vue&type=style&index=0&id=7abe372c&prod&scoped=true&lang=scss' (module has no exports)
+
+ warning  in ./src/page/index/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=2d32612e&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/language/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=0be1d9bc&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/loanApply/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=3011b52a&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/loanExpected/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=4202be6d&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/loanMy/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=f70bf61a&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/loan/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=224bde0d&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/login/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=1b721d42&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/me/iframe.vue
+
+export 'default' (imported as 'style0') was not found in './iframe.vue?vue&type=style&index=0&id=d4022fb4&prod&scoped=true&lang=scss' (module has no exports)
+
+ warning  in ./src/page/me/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=29661645&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/messageList/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=1de5670a&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/messageList/notify.vue
+
+export 'default' (imported as 'style0') was not found in './notify.vue?vue&type=style&index=0&id=5162e7c1&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/orderComnfirmation/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=48ff552c&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/recharge/RecordDetails/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=01fc2ec0&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/recharge/Record/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=20f0c959&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/recharge/bankCard/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=8838f13e&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/recharge/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=1c8649e7&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/recharge/index.vue
+
+export 'default' (imported as 'style1') was not found in './index.vue?vue&type=style&index=1&id=1c8649e7&prod&lang=css' (module has no exports)
+
+ warning  in ./src/page/recharge/list/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=b1456482&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/register/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=022519c1&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/shop/goodInfo.vue
+
+export 'default' (imported as 'style0') was not found in './goodInfo.vue?vue&type=style&index=0&id=1c975327&prod&scoped=true&lang=scss' (module has no exports)
+
+ warning  in ./src/page/shop/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=40ba951c&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/storeSearch/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=36bfe738&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/withdraw/RecordDetails/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=0ef70952&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/withdraw/Record/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=6041fdc8&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/withdraw/index.vue
+
+export 'default' (imported as 'style0') was not found in './index.vue?vue&type=style&index=0&id=08c55382&prod&lang=scss&scoped=true' (module has no exports)
+
+ warning  in ./src/page/withdraw/index.vue
+
+export 'default' (imported as 'style1') was not found in './index.vue?vue&type=style&index=1&id=08c55382&prod&lang=css' (module has no exports)
+
+ warning  in ./src/page/CommodityDetails/index.vue?vue&type=script&lang=js
+
+export 'apiGetRecommendNew' (imported as 'apiGetRecommendNew') was not found in '@/API/home' (possible exports: apiCategoryTree, apiGetActivity, apiGetBannerList, apiGetCategory, apiGetCustomerService, apiGetNewGoods, apiGetRecommendGoods, getSellerList, home_category, home_index, home_messageNum, home_sellerGoods)
+
+ warning  in ./src/page/Merchant/components/mer-chant-header.vue?vue&type=script&lang=js
+
+export 'default' (imported as '_Dropdown2') was not found in 'element-ui/lib/theme-chalk/dropdown.css' (module has no exports)
+
+ warning  in ./src/page/Merchant/components/mer-chant-header.vue?vue&type=script&lang=js
+
+export 'default' (imported as '_DropdownItem2') was not found in 'element-ui/lib/theme-chalk/dropdown-item.css' (module has no exports)
+
+ warning  in ./src/page/Merchant/components/mer-chant-header.vue?vue&type=script&lang=js
+
+export 'default' (imported as '_DropdownMenu2') was not found in 'element-ui/lib/theme-chalk/dropdown-menu.css' (module has no exports)
+
+ warning  in ./src/page/Merchant/merchantSettled.vue?vue&type=script&lang=js
+
+export 'default' (imported as '_Option2') was not found in 'element-ui/lib/theme-chalk/option.css' (module has no exports)
+
+ warning  in ./src/page/Merchant/merchantSettled.vue?vue&type=script&lang=js
+
+export 'default' (imported as '_Select2') was not found in 'element-ui/lib/theme-chalk/select.css' (module has no exports)
+
+ warning  in ./src/page/Merchant/merchantSettled.vue?vue&type=script&lang=js
+
+export 'default' (imported as '_Input2') was not found in 'element-ui/lib/theme-chalk/input.css' (module has no exports)
+
+ warning  in ./src/page/Merchant/merchantSettled.vue?vue&type=script&lang=js
+
+export 'default' (imported as '_FormItem2') was not found in 'element-ui/lib/theme-chalk/form-item.css' (module has no exports)
+
+ warning  in ./src/page/Merchant/merchantSettled.vue?vue&type=script&lang=js
+
+export 'default' (imported as '_Form2') was not found in 'element-ui/lib/theme-chalk/form.css' (module has no exports)
+
+ warning  in ./src/main.js
+
+export 'default' (imported as '_Tooltip2') was not found in 'element-ui/lib/theme-chalk/tooltip.css' (module has no exports)
+
+ warning  in ./src/main.js
+
+export 'default' (imported as '_TableColumn2') was not found in 'element-ui/lib/theme-chalk/table-column.css' (module has no exports)
+
+ warning  in ./src/main.js
+
+export 'default' (imported as '_Table2') was not found in 'element-ui/lib/theme-chalk/table.css' (module has no exports)
+
+ warning  
+
+asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+This can impact web performance.
+Assets: 
+  img/down-bg.349f01f4.png (1.59 MiB)
+  css/app.2383a874.css (685 KiB)
+  js/app.2e5839bd.js (1.62 MiB)
+  media/audio.d6e85326.mp3 (1.97 MiB)
+  img/choujiang.8652aed1.svg (365 KiB)
+  js/4163.1936d7a0.js (600 KiB)
+  img/Int-2-h5.c856e8b3.jpg (269 KiB)
+  img/Int-2.bd2a3fc8.jpg (326 KiB)
+  img/EShop-banner.28c8d4d4.jpg (333 KiB)
+  img/advertiseF.c0dc9cba.png (282 KiB)
+  img/advertiseJ.1edb9306.png (282 KiB)
+  img/int-banner.ee3b9517.png (337 KiB)
+  img/signal.2d53d68c.jpg (252 KiB)
+  js/chunk-vendors.19c1e808.js (1.87 MiB)
+  js/6485.ff02f3bf.js (298 KiB)
+    Largest modules: ./src/assets/image/avatar/4.png (10.6 KiB), ./src/assets/image/avatar/12.png (10.1 KiB), ./src/assets/image/avatar/20.png (9.57 KiB)
+
+ warning  
+
+entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+Entrypoints:
+  app (4.32 MiB)
+      css/chunk-vendors.58c6eae3.css
+      js/chunk-vendors.19c1e808.js
+      css/app.2383a874.css
+      js/app.2e5839bd.js
+
+
+ warning  
+
+webpack performance recommendations: 
+The runtime is part of the initial chunk of app. It describes every other chunk, so a change anywhere in the build rewrites these assets and clients download them again.
+Set 'optimization.runtimeChunk' to emit the runtime as its own chunk.
+For more info visit https://webpack.js.org/configuration/optimization/#optimizationruntimechunk
+
+  File                                  Size               Gzipped
+
+  wap\js\chunk-vendors.19c1e808.js      1914.32 KiB        369.15 KiB
+  wap\js\app.2e5839bd.js                1657.91 KiB        479.74 KiB
+  wap\js\4163.1936d7a0.js               599.72 KiB         179.93 KiB
+  wap\js\6485.ff02f3bf.js               298.22 KiB         202.42 KiB
+  wap\js\2681.ab113d3e.js               159.10 KiB         107.67 KiB
+  wap\js\3860.2eda486a.js               137.35 KiB         43.30 KiB
+  wap\js\5534.cee1ed9b.js               118.59 KiB         79.56 KiB
+  wap\js\1027.4c2cba82.js               75.81 KiB          33.58 KiB
+  wap\js\4582.608e25b1.js               69.43 KiB          38.76 KiB
+  wap\js\2651.ea17f2f6.js               59.46 KiB          26.06 KiB
+  wap\js\7977.aaae2186.js               40.23 KiB          12.60 KiB
+  wap\js\1479.fe1ffa84.js               36.96 KiB          13.80 KiB
+  wap\js\9266.d793a666.js               30.39 KiB          9.71 KiB
+  wap\js\445.af2e7930.js                30.37 KiB          20.67 KiB
+  wap\js\3497.a65b65ac.js               29.66 KiB          16.19 KiB
+  wap\js\4923.6f1d5af0.js               28.69 KiB          19.47 KiB
+  wap\js\1601.667afd2a.js               25.33 KiB          9.54 KiB
+  wap\js\8420.d9c79e09.js               24.50 KiB          9.02 KiB
+  wap\js\641.196e2244.js                24.48 KiB          12.81 KiB
+  wap\js\3127.eb200137.js               24.03 KiB          7.61 KiB
+  wap\js\8179.4a5900d6.js               21.90 KiB          8.62 KiB
+  wap\js\4989.2fa387d2.js               21.82 KiB          13.14 KiB
+  wap\brand-name.js                     21.54 KiB          6.14 KiB
+  wap\js\5387.01495027.js               20.08 KiB          7.38 KiB
+  wap\js\510.83e90330.js                19.23 KiB          8.19 KiB
+  wap\js\4088.a473a392.js               17.65 KiB          6.16 KiB
+  wap\js\3987.0158068b.js               17.49 KiB          7.61 KiB
+  wap\js\4501.37dc060a.js               17.15 KiB          5.73 KiB
+  wap\js\8131.40d5da35.js               16.67 KiB          5.82 KiB
+  wap\js\9859.f0bcb2b5.js               16.32 KiB          5.94 KiB
+  wap\js\1977.d2f0153e.js               15.81 KiB          5.48 KiB
+  wap\js\5862.9bbf909e.js               15.67 KiB          7.57 KiB
+  wap\js\1012.f61ca9ca.js               15.50 KiB          7.43 KiB
+  wap\js\7413.fe246db3.js               15.40 KiB          9.78 KiB
+  wap\js\8488.8a052e6b.js               15.23 KiB          4.99 KiB
+  wap\js\6996.c11d995e.js               14.52 KiB          5.35 KiB
+  wap\js\2723.f61850a3.js               14.17 KiB          4.63 KiB
+  wap\js\4128.defe7d8c.js               14.17 KiB          6.29 KiB
+  wap\js\4986.070a75d3.js               13.73 KiB          5.08 KiB
+  wap\js\5432.7bd4e87d.js               13.45 KiB          5.66 KiB
+  wap\js\9553.e9dca7a6.js               13.20 KiB          4.96 KiB
+  wap\js\8921.48d61fe4.js               12.82 KiB          4.55 KiB
+  wap\js\9616.7edf407d.js               12.78 KiB          4.95 KiB
+  wap\js\8270.c62171e8.js               12.59 KiB          4.77 KiB
+  wap\js\3970.36332844.js               12.49 KiB          4.63 KiB
+  wap\js\1020.d500441c.js               11.67 KiB          4.28 KiB
+  wap\js\6737.09a345be.js               10.97 KiB          7.29 KiB
+  wap\js\9565.e569136a.js               10.83 KiB          3.74 KiB
+  wap\js\7506.ff781126.js               10.48 KiB          4.56 KiB
+  wap\js\891.45dffcd9.js                10.29 KiB          4.04 KiB
+  wap\js\4381.b4c478c7.js               10.06 KiB          3.29 KiB
+  wap\js\4116.2f02ad37.js               9.39 KiB           4.38 KiB
+  wap\js\3814.6b6bc100.js               9.21 KiB           3.57 KiB
+  wap\js\4118.a09cbc25.js               8.85 KiB           3.62 KiB
+  wap\js\6685.e3085672.js               8.66 KiB           2.61 KiB
+  wap\js\9018.25989d97.js               8.31 KiB           3.71 KiB
+  wap\js\3818.ede9f906.js               7.83 KiB           4.98 KiB
+  wap\js\7970.6d3c0411.js               7.54 KiB           4.82 KiB
+  wap\js\5859.96f92110.js               7.08 KiB           2.52 KiB
+  wap\js\9969.df60de65.js               6.29 KiB           4.67 KiB
+  wap\js\6688.e8bc8044.js               5.98 KiB           2.39 KiB
+  wap\js\2685.a4b2c6c0.js               5.90 KiB           4.34 KiB
+  wap\js\1928.acb603a7.js               5.82 KiB           2.68 KiB
+  wap\js\1288.35a31d2f.js               5.73 KiB           2.47 KiB
+  wap\js\6327.72246ba2.js               4.91 KiB           2.16 KiB
+  wap\js\7159.90437475.js               4.75 KiB           2.23 KiB
+  wap\js\824.a3dc4fc4.js                4.40 KiB           1.76 KiB
+  wap\js\5179.798d67cb.js               4.19 KiB           2.01 KiB
+  wap\js\774.44e85ee2.js                3.74 KiB           1.54 KiB
+  wap\js\7117.c02d025e.js               3.47 KiB           1.57 KiB
+  wap\js\998.ef1a75a4.js                3.24 KiB           1.47 KiB
+  wap\js\8274.61994d7b.js               3.14 KiB           1.36 KiB
+  wap\js\6277.e7130c6e.js               2.90 KiB           1.36 KiB
+  wap\js\603.b5cd6b48.js                2.61 KiB           1.28 KiB
+  wap\js\4527.3e4302ec.js               2.47 KiB           1.45 KiB
+  wap\js\1363.44126942.js               2.38 KiB           1.76 KiB
+  wap\js\8899.be38712b.js               1.70 KiB           1.12 KiB
+  wap\js\1346.da6783ed.js               1.39 KiB           0.87 KiB
+  wap\css\app.2383a874.css              684.68 KiB         105.84 KiB
+  wap\css\chunk-vendors.58c6eae3.css    171.46 KiB         46.54 KiB
+  wap\css\7977.dbc87354.css             57.25 KiB          11.99 KiB
+  wap\css\2651.e047e0d9.css             54.46 KiB          13.13 KiB
+  wap\css\1479.6fcbe341.css             52.06 KiB          6.87 KiB
+  wap\css\510.21ff127c.css              42.17 KiB          26.22 KiB
+  wap\css\4163.ac017af5.css             40.97 KiB          9.98 KiB
+  wap\css\4088.a1e00ff9.css             39.16 KiB          6.16 KiB
+  wap\css\7970.b4e6d20f.css             37.53 KiB          5.63 KiB
+  wap\css\1027.3fbe8eac.css             35.87 KiB          5.62 KiB
+  wap\css\9266.2f298916.css             33.86 KiB          5.46 KiB
+  wap\css\3497.d15158c0.css             28.19 KiB          3.87 KiB
+  wap\css\4128.6cfe5062.css             27.05 KiB          4.20 KiB
+  wap\css\9018.d962ab68.css             24.13 KiB          3.59 KiB
+  wap\css\2681.a558cf22.css             22.00 KiB          4.96 KiB
+  wap\css\641.fe2212e9.css              19.44 KiB          6.78 KiB
+  wap\css\1977.5cbd1250.css             19.15 KiB          6.77 KiB
+  wap\css\5387.2b426bfc.css             16.83 KiB          3.04 KiB
+  wap\css\8131.b4151087.css             15.20 KiB          2.87 KiB
+  wap\css\4582.c856b3fc.css             14.63 KiB          5.69 KiB
+  wap\css\5862.08a70afc.css             13.73 KiB          4.61 KiB
+  wap\css\7413.05b7f878.css             13.48 KiB          5.69 KiB
+  wap\css\6685.dbe4e812.css             12.64 KiB          2.39 KiB
+  wap\css\3814.09ee9139.css             10.95 KiB          2.28 KiB
+  wap\css\7506.e9ad641c.css             10.62 KiB          2.25 KiB
+  wap\css\3970.df93dfcf.css             10.00 KiB          1.86 KiB
+  wap\css\6996.7ff0c4c0.css             9.58 KiB           1.87 KiB
+  wap\css\8270.aa50a8b6.css             8.87 KiB           1.81 KiB
+  wap\css\8921.747fdbd9.css             8.27 KiB           1.88 KiB
+  wap\css\5859.e04c163c.css             7.88 KiB           1.53 KiB
+  wap\css\6688.ec15b6ca.css             7.63 KiB           1.50 KiB
+  wap\css\1012.8dcd8a43.css             7.34 KiB           1.43 KiB
+  wap\css\1288.d9a27d98.css             7.13 KiB           1.41 KiB
+  wap\css\4118.b57559bd.css             6.80 KiB           1.54 KiB
+  wap\css\4986.1314787e.css             4.95 KiB           1.22 KiB
+  wap\css\9553.9c8836ec.css             4.95 KiB           1.22 KiB
+  wap\css\774.20e408e0.css              4.83 KiB           0.98 KiB
+  wap\css\9616.b10cc567.css             4.57 KiB           0.92 KiB
+  wap\css\9859.87145340.css             4.47 KiB           1.08 KiB
+  wap\css\4501.7bdaf07c.css             4.10 KiB           1.03 KiB
+  wap\css\4116.24232ab2.css             3.65 KiB           0.79 KiB
+  wap\css\4989.1e9de7e2.css             3.39 KiB           0.89 KiB
+  wap\css\5179.9c6cf6c8.css             2.52 KiB           0.56 KiB
+  wap\css\7159.89602690.css             2.52 KiB           0.56 KiB
+  wap\css\1928.87fe976b.css             2.00 KiB           0.52 KiB
+  wap\css\824.0986bc3c.css              1.78 KiB           0.45 KiB
+  wap\css\4527.bc468178.css             1.61 KiB           0.50 KiB
+  wap\css\7117.c7be2a00.css             1.25 KiB           0.44 KiB
+  wap\css\2685.b6afbf50.css             1.17 KiB           0.38 KiB
+  wap\css\445.0995c018.css              1.01 KiB           0.35 KiB
+  wap\css\6327.fde7ba2b.css             1.01 KiB           0.38 KiB
+  wap\css\8899.46c1ab37.css             1.00 KiB           0.36 KiB
+  wap\css\3818.3ad4886f.css             0.99 KiB           0.34 KiB
+  wap\css\6277.1319c12d.css             0.93 KiB           0.35 KiB
+  wap\css\6737.7bc23818.css             0.82 KiB           0.33 KiB
+  wap\css\603.45381bca.css              0.69 KiB           0.29 KiB
+  wap\css\998.97d95117.css              0.68 KiB           0.29 KiB
+  wap\css\8274.2020687f.css             0.68 KiB           0.29 KiB
+  wap\css\1363.8f6d24c9.css             0.65 KiB           0.30 KiB
+  wap\css\9969.f9440a04.css             0.65 KiB           0.30 KiB
+  wap\css\1346.02d2ac31.css             0.27 KiB           0.16 KiB
+
+  Images and other types of assets omitted.
+  Build at: 2026-11-03T00:28:22.113Z - Hash: 9cc39725f9eac6f1 - Time: 42142ms
+
+ DONE  Build complete. The wap directory is ready to be deployed.
+ INFO  Check out deployment instructions at https://cli.vuejs.org/guide/deployment.html
+       
